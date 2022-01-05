@@ -1,7 +1,7 @@
 ﻿using System.Text;
 using System.Text.RegularExpressions;
 
-namespace FinalFantasySpoilerParsers.WorldsCollide.Cleaner;
+namespace FinalFantasySpoilerParsers.WorldsCollide.DataPrep;
 
 internal class Cleaner
 {

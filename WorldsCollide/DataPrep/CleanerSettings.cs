@@ -1,4 +1,4 @@
-﻿namespace FinalFantasySpoilerParsers.WorldsCollide.Cleaner;
+﻿namespace FinalFantasySpoilerParsers.WorldsCollide.DataPrep;
 
 internal static class CleanerSettings
 {
